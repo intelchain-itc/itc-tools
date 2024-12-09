@@ -41,7 +41,7 @@ Modify the `numAccounts` variable in the `main` function to change the number of
 #### Run the Program
 Execute the script:
 ```bash
-go run main.go
+go run test.go
 ```
 This will generate a file named `generated_accounts.go` in the current directory.
 
